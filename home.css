@@ -1,0 +1,47 @@
+html{
+      background:url(homepg.jpg) center center fixed;
+      -webkit-background-size: cover;
+      -o-background-size:cover;
+      background-size: cover;
+      
+     }
+h2{
+	font-style: 
+	color: #404040;;
+	text-align: center;
+	font-size: 3.5rem;
+  }
+.container{
+      border: 2px solid orange ;
+      background:white;
+      border-radius:200px;
+      margin: auto;
+      width: 50%;
+      padding: 10px;
+      display: flex;
+      align-items: center;
+     justify-content: center;
+     
+}
+
+li{
+	 text-decoration: none;
+	font-size: 2rem;
+}
+.container{
+	vertical-align: center;
+
+  vertical-align: text-bottom;
+}
+button{
+	font-size: 1.2rem;
+	background-color: orange;
+    border-radius:200px;
+    color: black;
+}
+button:hover{
+    background-color: white;
+    border-width: 4px;
+    color:blue;
+}
+

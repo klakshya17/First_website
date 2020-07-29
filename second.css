@@ -1,0 +1,19 @@
+html{
+      background:url(book.jpg) center center fixed;
+      -webkit-background-size: cover;
+      -o-background-size:cover;
+      background-size: cover;
+      
+     }
+
+.container
+     {
+ 	  border:2 px black;
+ 	  background: white;
+ 	  border-radius:10px;
+      margin: auto;
+      width: 80%;
+      padding: 10px;
+      align-items: center;
+      justify-content: center;
+    }
